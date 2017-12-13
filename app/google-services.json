@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067755547297",
+    "firebase_url": "https://finalandroidproj.firebaseio.com",
+    "project_id": "finalandroidproj",
+    "storage_bucket": "finalandroidproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067755547297:android:95ca34c293efafcf",
+        "android_client_info": {
+          "package_name": "com.benya.pickasit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067755547297-4c63trqkp77la5cn78sb4cuuc2us2tf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwfHfGTcEDvpfZeAUSj8K8TeTni_TDMQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
